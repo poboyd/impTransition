@@ -7,4 +7,5 @@ Things got too big and I had to move to Eclipse/Java/JavaFX but this still has s
 
 - examples of using minim
 - examples of using controlP5
+- examples of using FFT
 - processing code 
