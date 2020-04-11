@@ -1,5 +1,5 @@
 # impTransition
-initial PoShowTube code, back in the days 
+initial PoShowTube code, from back in the days... PoShowTube the easy way to make dynamic YouTube audio videos unique for your song. Over 20 configurable processing graphics routines to help you make YouTube videos in minutes.
 
 This was the initial processing code I started with when creating PoShowTube  https://www.poshowtube.com/home.php
 
