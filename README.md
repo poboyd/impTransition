@@ -9,3 +9,6 @@ Things got too big and I had to move to Eclipse/Java/JavaFX but this still has s
 - examples of using controlP5
 - examples of using FFT
 - processing code 
+
+
+The main starting point is:  impTransition.pde
